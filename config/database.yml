@@ -46,4 +46,4 @@ test:
 #
 production:
   <<: *default
-  database: rails4_1_production
+  url: <%= ENV['DATABASE_URL'] %>
