@@ -1,0 +1,3 @@
+deploy:
+  provider: cloud66
+  redeployment_hook: "https://hooks.cloud66.com/stacks/redeploy/fd12e0c93b4f081bca70062c6c6f7157/03f7e968e7957f72c7ac8045840c8ee6"
